@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1 group-title="Знания",Тайны Галактики
+http://93.84.115.174:10181/galaxy
+#EXTINF:-1 group-title="Знания",Победа
+http://93.84.115.174:10181/pobeda
+#EXTINF:-1 group-title="Знания",Арсенал HD
+http://93.84.115.174:10181/arsenal_hd
+#EXTINF:-1 group-title="Знания",Luxury HD
+http://93.84.115.174:10181/foxhd
+#EXTINF:-1 group-title="Кино",Классика кино
+http://93.84.115.174:10181/klassikakino
+#EXTINF:-1 group-title="Кино",viju+ Premiere HD
+http://93.84.115.174:10181/vippremiere
+#EXTINF:-1 group-title="Кино",Bollywood
+http://93.84.115.174:10181/foxlifehd
+#EXTINF:-1 group-title="Кино",.Red HD
+http://93.84.115.174:10181/sonyhd
+#EXTINF:-1 group-title="Общие",СТВ Беларусь HD
+http://93.84.115.174:10181/stvhd
+#EXTINF:-1 group-title="Спорт",Беларусь 5 Интернет HD
+http://93.84.115.174:10181/belarus5hd
+#EXTINF:-1 group-title="Хобби",Еда HD
+http://93.84.115.174:10181/edahd
+#EXTINF:-1 group-title="🎶🔉 Музыкальные" tvg-logo="https://epg.iptvx.one/picons/fen-tv-bg.png",FEN TV
+http://94.100.50.220/FenTV/index.m3u8
+#EXTINF:-1 ,Unknown_5
+http://94.100.50.220/TV-5/index.m3u8
+#EXTINF:-1 ,Unknown_7
+http://94.100.50.220/HRT3/index.m3u8
+#EXTINF:-1 ,Unknown_8
+http://94.100.50.220/RTCG1/index.m3u8
+#EXTINF:-1 ,Unknown_10
+http://93.84.115.174:10181/amediahithd
+#EXTINF:-1 ,Unknown_11
+http://93.84.115.174:10181/amediapremiumhd
+#EXTINF:-1 ,Unknown_12
+http://93.84.115.174:10181/amedia2
+#EXTINF:-1 ,Unknown_13
+http://93.84.115.174:10181/animalplanethd
+#EXTINF:-1 ,Unknown_15
+http://93.84.115.174:10181/avtoplus
+#EXTINF:-1 ,Unknown_16
+http://93.84.115.174:10181/bober
+#EXTINF:-1 ,Unknown_17
+http://93.84.115.174:10181/box_tv
+#EXTINF:-1 ,Unknown_18
+http://93.84.115.174:10181/cinema
+#EXTINF:-1 ,Детский мир
+http://93.84.115.174:10181/detskimir
+#EXTINF:-1 ,Unknown_20
+http://93.84.115.174:10181/discovery_science_hd
+#EXTINF:-1 ,Unknown_21
+http://93.84.115.174:10181/dizi
+#EXTINF:-1 ,Дом Кино
+http://93.84.115.174:10181/domkino
+#EXTINF:-1 ,Домашние животные
+http://93.84.115.174:10181/domjivot
+#EXTINF:-1 ,Драйв
+http://93.84.115.174:10181/drive
+#EXTINF:-1 ,Unknown_26
+http://93.84.115.174:10181/duck_tv
+#EXTINF:-1 ,Europa Plus
+http://93.84.115.174:10181/europaplus
+#EXTINF:-1 ,Unknown_29
+http://93.84.115.174:10181/eurokino
+#EXTINF:-1 ,Евроспорт 2
+http://93.84.115.174:10181/eurosport2hd
+#EXTINF:-1 ,Unknown_31
+http://93.84.115.174:10181/fashionhd
+#EXTINF:-1 ,Unknown_32
+http://93.84.115.174:10181/feniks+kino
+#EXTINF:-1 ,Футбол
+http://93.84.115.174:10181/futbol
+#EXTINF:-1 ,Unknown_37
+http://93.84.115.174:10181/HDL
+#EXTINF:-1 ,Unknown_38
+http://93.84.115.174:10181/history
+#EXTINF:-1 ,ID Investigation Discovery
+http://93.84.115.174:10181/idxtra
+#EXTINF:-1 ,Unknown_40
+http://93.84.115.174:10181/illuzion+
+#EXTINF:-1 ,Unknown_41
+http://93.84.115.174:10181/karusel
+#EXTINF:-1 ,Unknown_42
+http://93.84.115.174:10181/khl
+#EXTINF:-1 ,Кинохит
+http://93.84.115.174:10181/kinohit
+#EXTINF:-1 ,Unknown_44
+http://93.84.115.174:10181/kinomix
+#EXTINF:-1 ,Unknown_45
+http://93.84.115.174:10181/kinosemya
+#EXTINF:-1 ,Unknown_46
+http://93.84.115.174:10181/kinosvidanie
+#EXTINF:-1 ,Unknown_47
+http://93.84.115.174:10181/kuhnia
+#EXTINF:-1 ,Unknown_48
+http://93.84.115.174:10181/matchplaneta
+#EXTINF:-1 ,Unknown_49
+http://93.84.115.174:10181/mezzo
+#EXTINF:-1 ,Unknown_50
+http://93.84.115.174:10181/mir24
+#EXTINF:-1 ,Unknown_51
+http://93.84.115.174:10181/mir_hd
+#EXTINF:-1 ,Unknown_52
+http://93.84.115.174:10181/mir_seriala
+#EXTINF:-1 ,Мужской
+http://93.84.115.174:10181/mujskoy
+#EXTINF:-1 ,Мужское Кино
+http://93.84.115.174:10181/mujskoekino
+#EXTINF:-1 ,Unknown_55
+http://93.84.115.174:10181/mult
+#EXTINF:-1 ,Unknown_56
+http://93.84.115.174:10181/myplanet
+#EXTINF:-1 ,Unknown_57
+http://93.84.115.174:10181/nashe_lubimoe_kino
+#EXTINF:-1 ,Unknown_58
+http://93.84.115.174:10181/nashenovoekino
+#EXTINF:-1 ,Unknown_59
+http://93.84.115.174:10181/nature
+#EXTINF:-1 ,Unknown_60
+http://93.84.115.174:10181/nauka
+#EXTINF:-1 ,Unknown_61
+http://93.84.115.174:10181/nostalgia
+#EXTINF:-1 ,Unknown_62
+http://93.84.115.174:10181/oceantv
+#EXTINF:-1 ,Оружие
+http://93.84.115.174:10181/orujie
+#EXTINF:-1 ,Unknown_65
+http://93.84.115.174:10181/retro
+#EXTINF:-1 ,Unknown_66
+http://93.84.115.174:10181/rusilluzion
+#EXTINF:-1 ,Unknown_67
+http://93.84.115.174:10181/russia_k
+#EXTINF:-1 ,Unknown_68
+http://93.84.115.174:10181/rutv
+#EXTINF:-1 ,Сарафан
+http://93.84.115.174:10181/sarafan
+#EXTINF:-1 ,Unknown_70
+http://93.84.115.174:10181/shansontv
+#EXTINF:-1 ,Unknown_72
+http://93.84.115.174:10181/sonyturbo
+#EXTINF:-1 ,Unknown_73
+http://93.84.115.174:10181/soyz
+#EXTINF:-1 ,Театр
+http://93.84.115.174:10181/teatr
+#EXTINF:-1 ,Unknown_75
+http://93.84.115.174:10181/telekafe
+#EXTINF:-1 ,Unknown_76
+http://93.84.115.174:10181/travel
+#EXTINF:-1 ,Unknown_77
+http://93.84.115.174:10181/tv1000
+#EXTINF:-1 ,Unknown_78
+http://93.84.115.174:10181/tv1000action
+#EXTINF:-1 ,Unknown_79
+http://93.84.115.174:10181/tv21
+#EXTINF:-1 ,Усадьба
+http://93.84.115.174:10181/usadba
+#EXTINF:-1 ,Успех
+http://93.84.115.174:10181/uspex
+#EXTINF:-1 ,Unknown_82
+http://93.84.115.174:10181/viasatsport
+#EXTINF:-1 ,Вопросы и ответы
+http://93.84.115.174:10181/voprosotvet
+#EXTINF:-1 ,#КтоКуда
+http://93.84.115.174:10181/whoiswho
+#EXTINF:-1 ,Unknown_86
+http://93.84.115.174:10181/zoo
+#EXTINF:-1 ,Unknown_87
+http://93.84.115.174:10181/rtr-belarus
+#EXTINF:-1 ,Unknown_88
+http://93.84.115.174:10181/ntv-belarus
+#EXTINF:-1 ,Unknown_89
+http://93.84.115.174:10181/365dneytv
+#EXTINF:-1 ,Unknown_90
+http://179.60.51.134:8888/AMC/index.m3u8
+#EXTINF:-1 ,Unknown_93
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+#EXTINF:-1 ,ESPN1
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:-1 ,ESPN2
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1 ,Unknown_97
+http://179.60.51.134:8888/HGTV/index.m3u8
+#EXTINF:-1 ,Unknown_98
+http://179.60.51.134:8888/HISTORY/index.m3u8
+#EXTINF:-1 ,Unknown_99
+http://179.60.51.134:8888/HISTORY2/index.m3u8
+#EXTINF:-1 ,Unknown_100
+http://179.60.51.134:8888/MTV/index.m3u8
+#EXTINF:-1 ,Unknown_101
+http://179.60.51.134:8888/PARAMOUNT/index.m3u8
+#EXTINF:-1 ,Unknown_102
+http://179.60.51.134:8888/RT/index.m3u8
+#EXTINF:-1 ,Unknown_103
+http://179.60.51.134:8888/SYFY/index.m3u8
+#EXTINF:-1 ,Unknown_104
+http://179.60.51.134:8888/TCM/index.m3u8
+#EXTINF:-1 ,Unknown_105
+http://179.60.51.134:8888/TNT/index.m3u8
+#EXTINF:-1 ,Unknown_106
+http://179.60.51.134:8888/TVC/index.m3u8
+#EXTINF:-1 ,Unknown_107
+http://179.60.51.134:8888/FX/index.m3u8
+#EXTINF:-1 ,Unknown_108
+http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:-1 ,Unknown_109
+http://179.60.51.134:8888/HTV/index.m3u8
+#EXTINF:-1 ,Unknown_110
+http://179.60.51.134:8888/IVC/index.m3u8
+#EXTINF:-1 ,Unknown_111
+http://5.188.221.43:8080/play//2x2
+#EXTINF:-1 ,Unknown_112
+http://5.188.221.43:8080/play//5_kanal
+#EXTINF:-1 ,Unknown_113
+http://5.188.221.43:8080/play//che
+#EXTINF:-1 ,Unknown_114
+http://5.188.221.43:8080/play//domashniy
+#EXTINF:-1 ,Unknown_115
+http://5.188.221.43:8080/play//karusel
+#EXTINF:-1 ,Unknown_116
+http://5.188.221.43:8080/play//kinosat
+#EXTINF:-1 ,Unknown_117
+http://5.188.221.43:8080/play//match
+#EXTINF:-1 ,Unknown_118
+http://5.188.221.43:8080/play//mir
+#EXTINF:-1 ,Unknown_119
+http://5.188.221.43:8080/play//moya_planeta
+#EXTINF:-1 ,Unknown_120
+http://5.188.221.43:8080/play//ntv
+#EXTINF:-1 ,Unknown_121
+http://5.188.221.43:8080/play//ort
+#EXTINF:-1 ,Unknown_122
+http://5.188.221.43:8080/play//otr
+#EXTINF:-1 ,Unknown_123
+http://5.188.221.43:8080/play//Pyatnica
+#EXTINF:-1 ,Unknown_124
+http://5.188.221.43:8080/play//rossia_24
+#EXTINF:-1 ,Unknown_125
+http://5.188.221.43:8080/play//spas
+#EXTINF:-1 ,Unknown_126
+http://5.188.221.43:8080/play//sts
+#EXTINF:-1 ,Unknown_127
+http://5.188.221.43:8080/play//tnt
+#EXTINF:-1 ,Unknown_128
+http://5.188.221.43:8080/play//tv-centr
+#EXTINF:-1 ,Unknown_129
+http://5.188.221.43:8080/play//tv3
+#EXTINF:-1 ,Unknown_130
+http://5.188.221.43:8080/play//utv
