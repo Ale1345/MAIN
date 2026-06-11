@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="146" group-title="Общие" tvg-logo="http://epg.one/img2/146.png",Первый канал Ultra HD 4K
+http://umka625.megogo.xyz/iptv/KEG24ZZD8VNT8E/19241/index.m3u8
+#EXTINF:-1 tvg-id="162" group-title="Общие" tvg-logo="http://epg.one/img2/162.png",НТВ Ultra HD 4K
+http://umka625.megogo.xyz/iptv/KEG24ZZD8VNT8E/19405/index.m3u8
+#EXTINF:-1 tvg-id="18" group-title="Общие" tvg-logo="http://epg.one/img2/18.png",РЕН Ultra HD 4K
+http://umka625.megogo.xyz/iptv/KEG24ZZD8VNT8E/19404/index.m3u8
+#EXTINF:-1 tvg-id="711" group-title="Общие" tvg-logo="http://epg.one/img2/711.png",Россия 1 Ultra HD 4K
+http://umka625.megogo.xyz/iptv/KEG24ZZD8VNT8E/19242/index.m3u8
